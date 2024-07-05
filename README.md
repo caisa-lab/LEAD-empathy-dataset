@@ -1,7 +1,6 @@
 # LEAD Empathy: An Expert Annotated German Dataset of Empathy in Written Leadership Communication
 
-*dataset will be uploaded soon*
-
+Text data prepared for classification tasks are in dataset.csv. If you want the text author survey data, please contact the maintainers.
 
 # Citation
 
